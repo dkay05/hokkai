@@ -28,7 +28,7 @@ export default function About() {
           <div className="fu d1" style={{display:'block'}}>
             <div style={{position:'relative',borderRadius:'12px',overflow:'hidden',border:'1px solid rgba(255,255,255,.08)'}}>
               <img 
-                src="/image/banner1.png" 
+                src="/assets/banner1.png" 
                 alt="Trading Chart" 
                 style={{
                   width:'100%',

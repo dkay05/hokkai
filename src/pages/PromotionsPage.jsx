@@ -9,7 +9,7 @@ export default function PromotionsPage() {
   return (
     <>
       <div className="page-hero" style={{ position: 'relative' }}>
-        <div style={{ position: 'absolute', inset: 0, backgroundImage: 'url(/image/banner7.png)', backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat', opacity: '0.3' }}></div>
+        <div style={{ position: 'absolute', inset: 0, backgroundImage: 'url(/assets/banner7.png)', backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat', opacity: '0.3' }}></div>
         <div style={{ position: 'relative', zIndex: 1 }}>
           <div className="page-hero-inner">
             <div className="page-breadcrumb">{t('promotions.breadcrumb')}</div>

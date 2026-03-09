@@ -12,7 +12,7 @@ export default function ECNRawAccountPage() {
   return (
     <>
       <div className="page-hero" style={{ position: 'relative' }}>
-        <div style={{ position: 'absolute', inset: 0, backgroundImage: 'url(/image/banner%204.png)', backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat', opacity: '0.2' }}></div>
+        <div style={{ position: 'absolute', inset: 0, backgroundImage: 'url(/assets/banner%204.png)', backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat', opacity: '0.2' }}></div>
         <div style={{ position: 'relative', zIndex: 1 }}>
           <div className="page-hero-inner">
             <div className="page-breadcrumb">Home / Accounts / ECN Raw</div>
