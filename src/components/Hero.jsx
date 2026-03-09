@@ -48,7 +48,7 @@ export default function Hero({ prices }) {
             zIndex:'-1'
           }}
         >
-          <source src="/video/hokkai_video_1.mp4" type="video/mp4" />
+          <source src="/video/video1.mp4" type="video/mp4" />
         </video>
         <div style={{position:'absolute',inset:0,background:'linear-gradient(to bottom,rgba(5,7,10,.5) 0%,rgba(5,7,10,.35) 40%,rgba(5,7,10,.92) 100%)'}}></div>
         <div style={{position:'absolute',inset:0,background:'radial-gradient(ellipse 65% 45% at 50% 55%,rgba(229,9,20,.1) 0%,transparent 70%)'}}></div>
